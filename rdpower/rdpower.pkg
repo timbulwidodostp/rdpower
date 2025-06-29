@@ -1,4 +1,31 @@
-D 'DEA': Data envelopment analysis
+D 'rdpower': Power Calculations for RD (Regression Discontinuity) Designs Use rdmde And rdpower With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F rdbwselect.ado
+F rdbwselect.sthlp
+F rdbwselect_2014.ado
+F rdbwselect_2014.sthlp
+F rdbwselect_2014_kconst.ado
+F rdmde.ado
+F rdmde.sthlp
+F rdplot.ado
+F rdplot.sthlp
+F rdpow.ado
+F rdpow.sthlp
+F rdpower.ado
+F rdpower.sthlp
+F rdpower_powerfun.mo
+F rdpower_powerfun_dot.mo
+F rdpower_powerfun_dot_tau.mo
+F rdpower_powernr.mo
+F rdpower_powernr_mde.mo
+F rdrobust.ado
+F rdrobust.sthlp
+F rdrobust_bw.mo
+F rdrobust_collapse.mo
+F rdrobust_groupid.mo
+F rdrobust_kweight.mo
+F rdrobust_median.mo
+F rdrobust_res.mo
+F rdrobust_vce.mo
+F rdsampsi.ado
+F rdsampsi.sthlp
